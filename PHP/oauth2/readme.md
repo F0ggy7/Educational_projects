@@ -3,7 +3,7 @@
 ![example2](https://github.com/F0ggy7/Educational_projects/assets/75094394/6c105a5f-d1a9-4e0a-9b08-6452d1ce95f3)
 
 
-### Тз на задание 
+### ТЗ
 Необходимо реализовать REST API с использованием фреймворка Symfony 6 + Api platform 
 1) Основные требования к API: 
 
