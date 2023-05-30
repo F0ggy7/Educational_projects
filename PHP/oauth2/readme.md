@@ -1,4 +1,7 @@
 ### Демонстрация работы
+![example](https://github.com/F0ggy7/Educational_projects/assets/75094394/8606e172-7f94-48b7-bb2a-6ba56fb90608)
+![example2](https://github.com/F0ggy7/Educational_projects/assets/75094394/6c105a5f-d1a9-4e0a-9b08-6452d1ce95f3)
+
 
 ### Тз на задание 
 Необходимо реализовать REST API с использованием фреймворка Symfony 6 + Api platform 
