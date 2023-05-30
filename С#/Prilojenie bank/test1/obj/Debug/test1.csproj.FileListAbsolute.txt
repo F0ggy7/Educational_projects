@@ -1,0 +1,51 @@
+C:\Users\xxlen\Desktop\praktika\test1\test1\bin\Debug\test1.exe.config
+C:\Users\xxlen\Desktop\praktika\test1\test1\bin\Debug\test1.exe
+C:\Users\xxlen\Desktop\praktika\test1\test1\bin\Debug\test1.pdb
+C:\Users\xxlen\Desktop\praktika\test1\test1\obj\Debug\test1.csprojAssemblyReference.cache
+C:\Users\xxlen\Desktop\praktika\test1\test1\obj\Debug\test1.Properties.Resources.resources
+C:\Users\xxlen\Desktop\praktika\test1\test1\obj\Debug\test1.csproj.GenerateResource.cache
+C:\Users\xxlen\Desktop\praktika\test1\test1\obj\Debug\test1.csproj.CoreCompileInputs.cache
+C:\Users\xxlen\Desktop\praktika\test1\test1\obj\Debug\test1.exe
+C:\Users\xxlen\Desktop\praktika\test1\test1\obj\Debug\test1.pdb
+C:\Users\xxlen\Desktop\praktika\test1\test1\obj\Debug\test1.Login.resources
+C:\Users\xxlen\Desktop\praktika\test1\test1\bin\Debug\MySql.Data.dll
+C:\Users\xxlen\Desktop\praktika\test1\test1\bin\Debug\Google.Protobuf.dll
+C:\Users\xxlen\Desktop\praktika\test1\test1\bin\Debug\Zstandard.Net.dll
+C:\Users\xxlen\Desktop\praktika\test1\test1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\xxlen\Desktop\praktika\test1\test1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\xxlen\Desktop\praktika\test1\test1\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\xxlen\Desktop\praktika\test1\test1\bin\Debug\System.Memory.dll
+C:\Users\xxlen\Desktop\praktika\test1\test1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\xxlen\Desktop\praktika\test1\test1\bin\Debug\System.Buffers.dll
+C:\Users\xxlen\Desktop\praktika\test1\test1\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\xxlen\Desktop\praktika\test1\test1\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\xxlen\Desktop\praktika\test1\test1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\xxlen\Desktop\praktika\test1\test1\bin\Debug\MySql.Data.xml
+C:\Users\xxlen\Desktop\praktika\test1\test1\obj\Debug\test1.csproj.CopyComplete
+C:\Users\xxlen\Desktop\praktika\test1\test1\bin\Debug\test1.xml
+C:\Users\xxlen\Desktop\praktika\test1\test1\obj\Debug\test1.FormMain.resources
+D:\Y4eba\Prog\praktika 2021\test1\test1\bin\Debug\test1.exe.config
+D:\Y4eba\Prog\praktika 2021\test1\test1\bin\Debug\test1.xml
+D:\Y4eba\Prog\praktika 2021\test1\test1\bin\Debug\test1.exe
+D:\Y4eba\Prog\praktika 2021\test1\test1\bin\Debug\test1.pdb
+D:\Y4eba\Prog\praktika 2021\test1\test1\bin\Debug\Google.Protobuf.dll
+D:\Y4eba\Prog\praktika 2021\test1\test1\bin\Debug\Zstandard.Net.dll
+D:\Y4eba\Prog\praktika 2021\test1\test1\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Y4eba\Prog\praktika 2021\test1\test1\bin\Debug\BouncyCastle.Crypto.dll
+D:\Y4eba\Prog\praktika 2021\test1\test1\bin\Debug\Ubiety.Dns.Core.dll
+D:\Y4eba\Prog\praktika 2021\test1\test1\bin\Debug\System.Memory.dll
+D:\Y4eba\Prog\praktika 2021\test1\test1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Y4eba\Prog\praktika 2021\test1\test1\bin\Debug\System.Buffers.dll
+D:\Y4eba\Prog\praktika 2021\test1\test1\bin\Debug\K4os.Compression.LZ4.dll
+D:\Y4eba\Prog\praktika 2021\test1\test1\bin\Debug\K4os.Hash.xxHash.dll
+D:\Y4eba\Prog\praktika 2021\test1\test1\bin\Debug\System.Numerics.Vectors.dll
+D:\Y4eba\Prog\praktika 2021\test1\test1\bin\Debug\MySql.Data.xml
+D:\Y4eba\Prog\praktika 2021\test1\test1\obj\Debug\test1.csproj.AssemblyReference.cache
+D:\Y4eba\Prog\praktika 2021\test1\test1\obj\Debug\test1.FormMain.resources
+D:\Y4eba\Prog\praktika 2021\test1\test1\obj\Debug\test1.Login.resources
+D:\Y4eba\Prog\praktika 2021\test1\test1\obj\Debug\test1.Properties.Resources.resources
+D:\Y4eba\Prog\praktika 2021\test1\test1\obj\Debug\test1.csproj.GenerateResource.cache
+D:\Y4eba\Prog\praktika 2021\test1\test1\obj\Debug\test1.csproj.CoreCompileInputs.cache
+D:\Y4eba\Prog\praktika 2021\test1\test1\obj\Debug\test1.csproj.CopyComplete
+D:\Y4eba\Prog\praktika 2021\test1\test1\obj\Debug\test1.exe
+D:\Y4eba\Prog\praktika 2021\test1\test1\obj\Debug\test1.pdb

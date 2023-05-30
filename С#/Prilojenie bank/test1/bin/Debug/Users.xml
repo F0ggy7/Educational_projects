@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<Users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UsersList>
+    <User>
+      <USER>Login</USER>
+      <LastName>Password</LastName>
+    </User>
+  </UsersList>
+</Users>/USER>
+      <LastName>Сделал</LastName>
+    </User>
+    <User>
+      <USER>авава</USER>
+      <LastName>авава</LastName>
+    </User>
+    <User>
+      <USER>авава</USER>
+      <LastName />
+    </User>
+  </UsersList>
+</Users>

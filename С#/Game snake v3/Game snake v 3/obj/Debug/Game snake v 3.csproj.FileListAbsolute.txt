@@ -1,0 +1,45 @@
+C:\Users\xxlen\Desktop\1\Game snake v 3\Game snake v 3\bin\Debug\Game snake v 3.exe.config
+C:\Users\xxlen\Desktop\1\Game snake v 3\Game snake v 3\bin\Debug\Game snake v 3.exe
+C:\Users\xxlen\Desktop\1\Game snake v 3\Game snake v 3\bin\Debug\Game snake v 3.pdb
+C:\Users\xxlen\Desktop\1\Game snake v 3\Game snake v 3\obj\Debug\Game snake v 3.csprojAssemblyReference.cache
+C:\Users\xxlen\Desktop\1\Game snake v 3\Game snake v 3\obj\Debug\MainWindow.g.cs
+C:\Users\xxlen\Desktop\1\Game snake v 3\Game snake v 3\obj\Debug\App.g.cs
+C:\Users\xxlen\Desktop\1\Game snake v 3\Game snake v 3\obj\Debug\Game snake v 3_MarkupCompile.cache
+C:\Users\xxlen\Desktop\1\Game snake v 3\Game snake v 3\obj\Debug\Game snake v 3_MarkupCompile.lref
+C:\Users\xxlen\Desktop\1\Game snake v 3\Game snake v 3\obj\Debug\MainWindow.baml
+C:\Users\xxlen\Desktop\1\Game snake v 3\Game snake v 3\obj\Debug\Game snake v 3.g.resources
+C:\Users\xxlen\Desktop\1\Game snake v 3\Game snake v 3\obj\Debug\Game_snake_v_3.Properties.Resources.resources
+C:\Users\xxlen\Desktop\1\Game snake v 3\Game snake v 3\obj\Debug\Game snake v 3.csproj.GenerateResource.cache
+C:\Users\xxlen\Desktop\1\Game snake v 3\Game snake v 3\obj\Debug\Game snake v 3.csproj.CoreCompileInputs.cache
+C:\Users\xxlen\Desktop\1\Game snake v 3\Game snake v 3\obj\Debug\Game snake v 3.exe
+C:\Users\xxlen\Desktop\1\Game snake v 3\Game snake v 3\obj\Debug\Game snake v 3.pdb
+C:\Пусть это будет здесь\Супер мега программинг\Game snake v 3\Game snake v 3\bin\Debug\Game snake v 3.exe.config
+C:\Пусть это будет здесь\Супер мега программинг\Game snake v 3\Game snake v 3\bin\Debug\Game snake v 3.exe
+C:\Пусть это будет здесь\Супер мега программинг\Game snake v 3\Game snake v 3\bin\Debug\Game snake v 3.pdb
+C:\Пусть это будет здесь\Супер мега программинг\Game snake v 3\Game snake v 3\obj\Debug\Game snake v 3.csprojAssemblyReference.cache
+C:\Пусть это будет здесь\Супер мега программинг\Game snake v 3\Game snake v 3\obj\Debug\MainWindow.g.cs
+C:\Пусть это будет здесь\Супер мега программинг\Game snake v 3\Game snake v 3\obj\Debug\App.g.cs
+C:\Пусть это будет здесь\Супер мега программинг\Game snake v 3\Game snake v 3\obj\Debug\Game snake v 3_MarkupCompile.cache
+C:\Пусть это будет здесь\Супер мега программинг\Game snake v 3\Game snake v 3\obj\Debug\Game snake v 3_MarkupCompile.lref
+C:\Пусть это будет здесь\Супер мега программинг\Game snake v 3\Game snake v 3\obj\Debug\MainWindow.baml
+C:\Пусть это будет здесь\Супер мега программинг\Game snake v 3\Game snake v 3\obj\Debug\Game snake v 3.g.resources
+C:\Пусть это будет здесь\Супер мега программинг\Game snake v 3\Game snake v 3\obj\Debug\Game_snake_v_3.Properties.Resources.resources
+C:\Пусть это будет здесь\Супер мега программинг\Game snake v 3\Game snake v 3\obj\Debug\Game snake v 3.csproj.GenerateResource.cache
+C:\Пусть это будет здесь\Супер мега программинг\Game snake v 3\Game snake v 3\obj\Debug\Game snake v 3.csproj.CoreCompileInputs.cache
+C:\Пусть это будет здесь\Супер мега программинг\Game snake v 3\Game snake v 3\obj\Debug\Game snake v 3.exe
+C:\Пусть это будет здесь\Супер мега программинг\Game snake v 3\Game snake v 3\obj\Debug\Game snake v 3.pdb
+D:\Y4eba\Prog\Game snake v 3\Game snake v 3\bin\Debug\Game snake v 3.exe.config
+D:\Y4eba\Prog\Game snake v 3\Game snake v 3\bin\Debug\Game snake v 3.exe
+D:\Y4eba\Prog\Game snake v 3\Game snake v 3\bin\Debug\Game snake v 3.pdb
+D:\Y4eba\Prog\Game snake v 3\Game snake v 3\obj\Debug\Game snake v 3.csproj.AssemblyReference.cache
+D:\Y4eba\Prog\Game snake v 3\Game snake v 3\obj\Debug\MainWindow.g.cs
+D:\Y4eba\Prog\Game snake v 3\Game snake v 3\obj\Debug\App.g.cs
+D:\Y4eba\Prog\Game snake v 3\Game snake v 3\obj\Debug\Game snake v 3_MarkupCompile.cache
+D:\Y4eba\Prog\Game snake v 3\Game snake v 3\obj\Debug\Game snake v 3_MarkupCompile.lref
+D:\Y4eba\Prog\Game snake v 3\Game snake v 3\obj\Debug\MainWindow.baml
+D:\Y4eba\Prog\Game snake v 3\Game snake v 3\obj\Debug\Game snake v 3.g.resources
+D:\Y4eba\Prog\Game snake v 3\Game snake v 3\obj\Debug\Game_snake_v_3.Properties.Resources.resources
+D:\Y4eba\Prog\Game snake v 3\Game snake v 3\obj\Debug\Game snake v 3.csproj.GenerateResource.cache
+D:\Y4eba\Prog\Game snake v 3\Game snake v 3\obj\Debug\Game snake v 3.csproj.CoreCompileInputs.cache
+D:\Y4eba\Prog\Game snake v 3\Game snake v 3\obj\Debug\Game snake v 3.exe
+D:\Y4eba\Prog\Game snake v 3\Game snake v 3\obj\Debug\Game snake v 3.pdb

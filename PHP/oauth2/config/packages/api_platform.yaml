@@ -1,0 +1,36 @@
+api_platform:
+  oauth:
+    # To enable or disable OAuth.
+    enabled: true
+
+    # The OAuth client ID.
+    clientId: 'e2b38fc1da96305e1d86e9ab554ed12d'
+
+    # The OAuth client secret.
+    clientSecret: 'd6bc9205d8ed80eb55f46d998d5175dd0ce0188d0a3c7e8b71cfb3f348d6374cb8e9759e09c9e3a98cda451d08ade633373a99dc99e5ae7965fcd2cd18b92620'
+
+    # The OAuth type.
+    type: 'oauth2'
+
+    # The OAuth flow grant type.
+    flow: 'password'
+
+    # The OAuth token url.
+    tokenUrl: '/token'
+
+    # The OAuth authentication url.
+    authorizationUrl: '/oauth/v2/auth'
+
+    # The OAuth scopes.
+    scopes: [ ]
+
+  graphql:
+    collection:
+      pagination:
+        enabled: true
+  defaults:
+    pagination_enabled: true
+    pagination_client_enabled: true
+    pagination_client_items_per_page: true
+    pagination_items_per_page: 5
+    pagination_partial: true
